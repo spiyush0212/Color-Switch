@@ -1,4 +1,4 @@
-# Color-Switch
+# Color-Run
 
 Just download the APK file from this repository to play the game!
 
